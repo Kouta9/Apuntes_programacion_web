@@ -1,0 +1,14 @@
+*{
+    background-color: antiquewhite;
+}
+#titulo{
+    color: red;
+}
+.texto{
+        cursor: move;
+}
+
+
+fieldset>form>label{
+    background-color: aqua;
+}
